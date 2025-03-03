@@ -31,7 +31,7 @@ Aktualnie pracuję nad kilkoma projektami, które naprawdę mnie ekscytują:
 
 ## ⏱ Statystyki WakaTime
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=twoje_imie&layout=compact&theme=dark)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=PH4S3X &layout=compact&theme=dark)
 
 ---
 
