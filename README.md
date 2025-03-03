@@ -2,12 +2,9 @@
 
 ## 🌟 Cześć i witaj w świecie klocków!
 
-Nazywam się **[Twoje Imię]** i pasjonuję się wszystkim, co związane z Minecraftem. Tworzę mody, pluginy oraz unikalne mechaniki do map, dzięki którym rozgrywka staje się jeszcze bardziej wyjątkowa. W mojej pracy łączę kreatywność z techniczną precyzją, wykorzystując głównie:
+Siema jestem **PH4S3** i pasjonuję się wszystkim, co związane z Minecraftem. Tworzę mody, pluginy oraz unikalne mechaniki do map, dzięki którym rozgrywka staje się jeszcze bardziej wyjątkowa. W mojej pracy łączę kreatywność z techniczną precyzją, wykorzystując głównie:
 
-- **Modding** – programuję w **Java** i **Kotlin** przy użyciu narzędzi takich jak **Fabric** oraz **Forge**.
 - **Pluginy** – buduję serwery oparte na **Spigot** lub **Paper** w języku **Java**.
-- **Mapy** – tworzę innowacyjne rozwiązania oparte na **command blockach**, **datapackach** i **resource packach**.
-- **Integrację AI** – wdrażam sztuczną inteligencję do Minecrafta używając **Python** i bibliotek ML.
 
 ---
 
@@ -26,13 +23,7 @@ Aktualnie pracuję nad kilkoma projektami, które naprawdę mnie ekscytują:
 
 Kilka projektów, z których jestem szczególnie dumny:
 
-- **Mod "QuantumCraft"**  
-  Z dumą mogę powiedzieć, że pobrało go już ponad 50 tysięcy graczy na CurseForge. To propozycja, która wprowadza system kwantowych bloków i unikalną mechanikę czasoprzestrzenną.  
-  [Zobacz na CurseForge](https://www.curseforge.com/minecraft/mc-mods/quantumcraft)
-
-- **Plugin "ElytraRacer"**  
-  To multiplayerowa gra, w której zawodnicy ścigają się, korzystając z elytry, a ich przeciwnikami są AI.  
-  [Obejrzyj przykładowy film](https://youtu.be/abc123)
+- **SOON PUBLICZNE**  
 
 ---
 
