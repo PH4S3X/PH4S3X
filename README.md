@@ -1,7 +1,3 @@
-Oto propozycja ładnego i profesjonalnego README dla profilu GitHub developera Minecraft. Tekst jest napisany w języku polskim, ale możesz go dostosować do swoich potrzeb:
-
----
-
 # 👋 Cześć! Jestem [Twoje Imię/Nick] - Minecraft Developer
 
 ```plaintext
@@ -62,7 +58,7 @@ Oto kilka moich ostatnich projektów, które mogą Cię zainteresować:
 ---
 
 ## 📊 Statystyki
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twojanazwa&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PH4S3X&show_icons=true&theme=radical)
 
 ---
 
@@ -71,29 +67,9 @@ Chętnie pomogę w realizacji Twojego projektu! Jeśli masz pomysł na plugin, m
 
 ### Kontakt:
 - Discord: `TwojaNazwa#1234`
-- Email: `twoj@email.com`
-- LinkedIn: [Twój Profil](#)
-
----
-
-## 📜 Licencja
-Ten projekt jest dostępny na licencji **MIT** – więcej informacji znajdziesz w pliku [LICENSE](LICENSE).
-
----
-
-## 🙏 Podziękowania
-Dziękuję wszystkim osobom, które wspierają mnie w mojej drodze jako developer Minecrafta. Wasze wsparcie i feedback są dla mnie ogromnie ważne!
 
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
-
-### Jak używać tego README?
-1. Zastąp `[Twoje Imię/Nick]` swoim prawdziwym imieniem lub nickiem.
-2. Dodaj linki do swoich projektów w sekcji **Projekty**.
-3. Uzupełnij dane kontaktowe w sekcji **Współpraca**.
-4. Dostosuj statystyki GitHub, aby pokazywały Twoje aktywności (możesz wykorzystać narzędzia takie jak [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)).
-
-Mam nadzieję, że ten szablon README przypadnie Ci do gustu! ✨
