@@ -1,6 +1,3 @@
-# 🎮 Mój profil Minecraft Developera
-
-## 🌟 Cześć i witaj w świecie klocków!
 
 Siema jestem **PH4S3** i pasjonuję się wszystkim, co związane z Minecraftem.
 ---
@@ -16,9 +13,7 @@ Aktualnie pracuję nad kilkoma projektami, które naprawdę mnie ekscytują:
 
 ---
 
-## 💻 Narzędzia i Technologie
-
-Pracuję na najpopularniejszych narzędziach i technologiach, które pomagają mi w tworzeniu projektów:
+## 💻 Języki które używam:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -40,11 +35,10 @@ Zajrzyj na moje statystyki i sprawdź, czym się ostatnio zajmuję:
 
 ## 📧 Kontakt
 
-Jeśli masz pytania, propozycje współpracy lub po prostu chcesz pogadać o Minecraftcie, napisz do mnie:
+Jeśli masz pytania, propozycje współpracy, napisz do mnie:
 
-- **E-mail:** [kontakt@twoje-domena.com](mailto:kontakt@twoje-domena.com)
-- **LinkedIn:** [linkedin.com/in/twoje-profil](https://linkedin.com/in/twoje-profil)
-- **Discord:** **TwojeImie#1234**
+- **E-mail:** [soon](mailto:soon)
+- **Discord:** **_ph4s3x_**
 
 ---
 
@@ -63,7 +57,6 @@ Jeżeli potrzebujesz pomocy w programowaniu modów lub pluginów, optymalizacji 
 
 ### 📌 Zobacz też:
 
-- [Moje repozytoria Minecraft](https://github.com/twoje-imie?q=minecraft)  
 - [Mój serwer Discord](https://discord.gg/invite)
 
 ---
