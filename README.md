@@ -1,7 +1,7 @@
 # Cześć, jestem PH4S3! 👋
 
 
-https://wakatime.com/badge/user/40f9b09b-a4bc-4965-8e0f-87b99f1750f7.svg
+image:https://wakatime.com/badge/user/40f9b09b-a4bc-4965-8e0f-87b99f1750f7.svg["wakatime", link="https://wakatime.com/@40f9b09b-a4bc-4965-8e0f-87b99f1750f7"]
 
 ## O mnie
 Jestem pasjonatem technologii, programowania i ciągłego rozwoju. Uwielbiam wyzwania i chętnie podejmuję się nowych projektów, które pozwalają mi rozwijać swoje umiejętności. W wolnych chwilach eksperymentuję z nowymi narzędziami i technologiami, a także dzielę się swoją wiedzą z innymi.
