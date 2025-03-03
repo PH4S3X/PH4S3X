@@ -2,10 +2,7 @@
 
 ## 🌟 Cześć i witaj w świecie klocków!
 
-Siema jestem **PH4S3** i pasjonuję się wszystkim, co związane z Minecraftem. Tworzę mody, pluginy oraz unikalne mechaniki do map, dzięki którym rozgrywka staje się jeszcze bardziej wyjątkowa. W mojej pracy łączę kreatywność z techniczną precyzją, wykorzystując głównie:
-
-- **Pluginy** – buduję serwery oparte na **Spigot** lub **Paper** w języku **Java**.
-
+Siema jestem **PH4S3** i pasjonuję się wszystkim, co związane z Minecraftem.
 ---
 
 ## 🛠️ Aktualne projekty
@@ -14,16 +11,8 @@ Aktualnie pracuję nad kilkoma projektami, które naprawdę mnie ekscytują:
 
 | Nazwa                | Opis                                                                 | Stan projektu   |
 |----------------------|---------------------------------------------------------------------|-----------------|
-| **Advanced Automation** | To skomplikowany mod Fabric, który dzięki systemowi AI umożliwia automatyczną eksploatację surowców. | 🚧 W trakcie    |
-| **Dynamic Biomes**    | Plugin do Spigota, który dynamicznie generuje nowe biomy w czasie rzeczywistym.    | 🚀 Wdrożenie    |
-
----
-
-## 🏆 Najlepsze projekty
-
-Kilka projektów, z których jestem szczególnie dumny:
-
-- **SOON PUBLICZNE**  
+| **SOON** | SOON. | 🚧 SOON    |
+| **SOON**    | SOON.    | 🚀 SOON     |
 
 ---
 
