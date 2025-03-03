@@ -51,12 +51,6 @@ Jeśli masz pytania, propozycje współpracy, napisz do mnie:
 
 ---
 
-## 🚀 Chcesz współpracować?
-
-Jeżeli potrzebujesz pomocy w programowaniu modów lub pluginów, optymalizacji mechanik mapsowych czy wdrożeniu AI do gry – nie krępuj się i napisz do mnie. Jestem otwarty na nowe wyzwania!
-
----
-
 ### 📌 Zobacz też:
 
 - [Mój serwer Discord](https://discord.gg/invite)
