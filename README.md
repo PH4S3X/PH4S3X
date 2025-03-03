@@ -26,10 +26,12 @@ Aktualnie pracuję nad kilkoma projektami, które naprawdę mnie ekscytują:
 
 ## 📊 Statystyki na GitHub
 
-Zajrzyj na moje statystyki i sprawdź, czym się ostatnio zajmuję:
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twoje_imie&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twoje_imie&layout=compact&theme=dark)
+
+## ⏱ Statystyki WakaTime
+
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=twoje_imie&layout=compact&theme=dark)
 
 ---
 
