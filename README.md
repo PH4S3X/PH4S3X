@@ -20,14 +20,12 @@ Aktualnie pracuję nad kilkoma projektami, które naprawdę mnie ekscytują:
 
 Pracuję na najpopularniejszych narzędziach i technologiach, które pomagają mi w tworzeniu projektów:
 
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java)
-- ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
-- ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?logo=intellij-idea)
-- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-- ![CurseForge](https://img.shields.io/badge/-CurseForge-232629?logo=curseforge)
-- ![SpigotMC](https://img.shields.io/badge/-SpigotMC-00AE80?logo=spigotmc)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
 ---
 
