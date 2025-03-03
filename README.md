@@ -31,7 +31,7 @@ Aktualnie pracuję nad kilkoma projektami, które naprawdę mnie ekscytują:
 
 ## ⏱ Statystyki WakaTime
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=PH4S3X &layout=compact&theme=dark)
+<a href="https://wakatime.com/@40f9b09b-a4bc-4965-8e0f-87b99f1750f7"><img src="https://wakatime.com/badge/user/40f9b09b-a4bc-4965-8e0f-87b99f1750f7.svg" alt="Total time coded since Jun 21 2024" /></a>
 
 ---
 
