@@ -1,75 +1,19 @@
-# 👋 Cześć! Jestem [Twoje Imię/Nick] - Minecraft Developer
+<h1 align="center">Hi 👋, I'm PHASE</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-```plaintext
- ██████╗ ██╗   ██╗██╗     ██╗  ██╗ █████╗ 
- ██╔══██╗██║   ██║██║     ██║ ██╔╝██╔══██╗
- ██████╔╝██║   ██║██║     █████╔╝ ███████║
- ██╔═══╝ ██║   ██║██║     ██╔═██╗ ██╔══██║
- ██║     ╚██████╔╝███████╗██║  ██╗██║  ██║
- ╚═╝      ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ph4s3&label=Profile%20views&color=0e75b6&style=flat" alt="ph4s3" /> </p>
 
-## 🌟 O mnie
-Jestem pasjonatem tworzenia gier i modów do Minecrafta! Moją misją jest tworzenie innowacyjnych rozwiązań, które zwiększą zabawę i możliwości graczy. Specjalizuję się w tworzeniu pluginów, modów oraz skryptów zarówno dla serwerów Vanilla, jak i Paper/Spigot/Bukkit.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ph4s3" alt="ph4s3" /></a> </p>
 
-Jeśli szukasz kogoś, kto pomoże Ci stworzyć coś wyjątkowego w świecie Minecrafta – jesteś we właściwym miejscu!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 🔧 Umiejętności
-- **Java** – Tworzenie pluginów i modów (Bukkit/Spigot/Paper)
-- **Kotlin** – Nowoczesne podejście do programowania Minecrafta
-- **JavaScript/TypeScript** – Skrypty dla platform takich jak Node.js czy Denizen
-- **Datapacks** – Tworzenie niestandardowych mechanik gry za pomocą JSON i funkcji Minecrafta
-- **API Minecrafta** – Doświadczenie w pracy z różnymi API, takimi jak ProtocolLib, WorldEdit, Vault
-- **Systemy baz danych** – MySQL, SQLite, MongoDB do przechowywania danych graczy
-- **DevOps** – Konfiguracja i zarządzanie serwerami Minecraft
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ph4s3&show_icons=true&locale=en&layout=compact" alt="ph4s3" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ph4s3&show_icons=true&locale=en" alt="ph4s3" /></p>
 
-## 🛠️ Projekty
-Oto kilka moich ostatnich projektów, które mogą Cię zainteresować:
-
-### 1. **Custom Economy Plugin**
-- Własny system gospodarczy dla serwerów Minecraft.
-- Funkcje: waluty, sklepy, banki, aukcje.
-- Wykorzystane technologie: Java, MySQL.
-
-[Link do repozytorium](#)
-
----
-
-### 2. **Advanced Minigames Suite**
-- Zestaw minigier, w tym SkyWars, BedWars i Capture the Flag.
-- W pełni konfigurowalne mapy i tryby gry.
-- Wykorzystane technologie: Spigot API, WorldEdit.
-
-[Link do repozytorium](#)
-
----
-
-### 3. **Automatyczny Generator Datapacków**
-- Narzędzie do generowania niestandardowych datapacków na podstawie prostych plików konfiguracyjnych.
-- Obsługa poleceń, funkcji i struktur.
-- Wykorzystane technologie: Python, JSON.
-
-[Link do repozytorium](#)
-
----
-
-## 📊 Statystyki
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PH4S3X&show_icons=true&theme=radical)
-
----
-
-## 🤝 Współpraca
-Chętnie pomogę w realizacji Twojego projektu! Jeśli masz pomysł na plugin, mod lub całą grę w Minecraftzie, daj mi znać. Możemy razem stworzyć coś niezwykłego!
-
-### Kontakt:
-- Discord: `TwojaNazwa#1234`
-
----
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ph4s3&" alt="ph4s3" /></p>
