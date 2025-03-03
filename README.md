@@ -1,14 +1,25 @@
-## Hi there 👋
+# Cześć, jestem PH4S3! 👋
 
-**PH4S3X/PH4S3X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## O mnie
+Jestem pasjonatem technologii, programowania i ciągłego rozwoju. Uwielbiam wyzwania i chętnie podejmuję się nowych projektów, które pozwalają mi rozwijać swoje umiejętności. W wolnych chwilach eksperymentuję z nowymi narzędziami i technologiami, a także dzielę się swoją wiedzą z innymi.
 
-Here are some ideas to get you started:
+## Umiejętności
+- **Języki programowania:** Python, Java
+- **Technologie webowe:** HTML, CSS, PHP
+- **Bazy danych:** MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Projekty
+Oto kilka projektów, nad którymi ostatnio pracowałem:
+- [Projekt 1](#) - Krótki opis projektu.
+- [Projekt 2](#) - Krótki opis projektu.
+- [Projekt 3](#) - Krótki opis projektu.
+
+## Kontakt
+Chętnie odpowiem na Twoje pytania lub porozmawiam o potencjalnej współpracy:
+- **Email:** twojemail@example.com
+- **LinkedIn:** [Twoje Imię i Nazwisko](#)
+- **Twitter:** [@TwojTwitter](#)
+
+---
+
+*README zaktualizowane na bieżąco.*
