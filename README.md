@@ -38,7 +38,7 @@ Zajrzyj na moje statystyki i sprawdź, czym się ostatnio zajmuję:
 Jeśli masz pytania, propozycje współpracy, napisz do mnie:
 
 - **E-mail:** [soon](mailto:soon)
-- **Discord:** ```**_ph4s3x_**```
+- **Discord:** **```_ph4s3x_```**
 
 ---
 
