@@ -8,7 +8,7 @@ Aktualnie pracuję nad kilkoma projektami, które naprawdę mnie ekscytują:
 
 | Nazwa                | Opis                                                                 | Stan projektu   |
 |----------------------|---------------------------------------------------------------------|-----------------|
-| **SOON** | SOON. | 🚧 SOON    |
+| **SOON** | SOON. | 🚧 W TRAKCIE    |
 | **SOON**    | SOON.    | 🚀 SOON     |
 
 ---
