@@ -1,7 +1,5 @@
 
 
-Oto przykładowy złożony i stylowy `README.md` dla profilu GitHub developera Minecraftowego (w języku polskim):
-
 ---
 
 # 🎮 Mój profil Minecraft Developera
