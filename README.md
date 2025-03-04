@@ -1,5 +1,5 @@
 
-Siema jestem **PH4S3** i pasjonuję się wszystkim, co związane z Minecraftem.
+Siema jestem **PH4S3** i pasjonuję się wszystkim, co jest związane z programowaniem.
 ---
 
 ## 🛠️ Aktualne projekty
