@@ -4,11 +4,11 @@ Siema jestem **PH4S3** i pasjonuję się wszystkim, co związane z Minecraftem.
 
 ## 🛠️ Aktualne projekty
 
-Aktualnie pracuję nad kilkoma projektami, które naprawdę mnie ekscytują:
+Aktualnie pracuję nad kilkoma projektami:
 
 | Nazwa                | Opis                                                                 | Stan projektu   |
 |----------------------|---------------------------------------------------------------------|-----------------|
-| **SOON** | SOON. | 🚧 W TRAKCIE    |
+| **SOON** | SOON. | 🚀 SOON    |
 | **SOON**    | SOON.    | 🚀 SOON     |
 
 ---
