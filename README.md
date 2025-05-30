@@ -42,14 +42,6 @@ Jeśli masz pytania, propozycje współpracy, napisz do mnie:
 - **E-mail:** [soon](mailto:soon)
 - **Discord:** **```_ph4s3x_```**
 
----
-
-## 🌐 Cytat dnia
-
-> *"Minecraft to nie tylko gra o klockach - to gra o granice twojej wyobraźni."*  
-> – Steve "Notch" Persson
-
----
 
 ### 📌 Zobacz też:
 
